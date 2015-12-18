@@ -1,0 +1,6 @@
+C:\Users\James\Desktop\_Coding\C#\C#\Tutorial 1\WorkExp1\WorkExp1\bin\Debug\WorkExp1.exe.config
+C:\Users\James\Desktop\_Coding\C#\C#\Tutorial 1\WorkExp1\WorkExp1\obj\Debug\WorkExp1.csprojResolveAssemblyReference.cache
+C:\Users\James\Desktop\_Coding\C#\C#\Tutorial 1\WorkExp1\WorkExp1\bin\Debug\WorkExp1.exe
+C:\Users\James\Desktop\_Coding\C#\C#\Tutorial 1\WorkExp1\WorkExp1\bin\Debug\WorkExp1.pdb
+C:\Users\James\Desktop\_Coding\C#\C#\Tutorial 1\WorkExp1\WorkExp1\obj\Debug\WorkExp1.exe
+C:\Users\James\Desktop\_Coding\C#\C#\Tutorial 1\WorkExp1\WorkExp1\obj\Debug\WorkExp1.pdb
